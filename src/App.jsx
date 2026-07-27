@@ -45,10 +45,10 @@ function DashboardBanner() {
 export default function App() {
   return (
     <div style={{height:'100vh', textAlign:'center', paddingTop:'25px'}}>
-      <h2>reference:</h2>
+      <h2 style={{opacity: '0.4'}}>reference:</h2>
       <img src={'https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/banner-main.svg'}/>
       <br/>
-      <h2>recreation:</h2>
+      <h2 style={{opacity: '0.4'}}>recreation:</h2>
       <DashboardBanner/>
 
  {/* <img src={'https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/banner-recent-repo.svg'}/>  */}
