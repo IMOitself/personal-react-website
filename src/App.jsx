@@ -45,7 +45,13 @@ function DashboardBanner() {
 export default function App() {
   return (
     <>
-    <p className='topwarning'>currently doing some baby steps rn. let me cook {" >:D"}</p>
+    <p className='topwarning'>
+      doing some initial baby steps rn.<br/>
+      <i>
+      note: i refuse vibe coding so it might take a while.<br/>
+      just let me cook {" >:D"}
+      </i>
+    </p>
 
     <div style={{textAlign:'center'}}>
       <h2 style={{opacity: '0.4'}}>reference:</h2>
