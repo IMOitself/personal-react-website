@@ -45,6 +45,7 @@ function DashboardBanner() {
 export default function App() {
   return (
     <div style={{height:'100vh', textAlign:'center', paddingTop:'25px'}}>
+      <p className='topwarning'>currently in baby steps rn. let me cook {" >:D"}</p>
       <h2 style={{opacity: '0.4'}}>reference:</h2>
       <img src={'https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/banner-main.svg'}/>
       <br/>

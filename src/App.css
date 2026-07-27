@@ -19,3 +19,8 @@
 #lang > svg {
     width: 40px;
 }
+.topwarning {
+    width: 100%;
+    background-color: #ba7f09;
+    padding: 10px;
+}
