@@ -16,5 +16,3 @@ to learn how to create and deploy react website idk
 - [jetbrains mono](https://www.jetbrains.com/lp/mono/)
 - [google fonts icons](https://fonts.google.com/icons)
 
-<img width="1280" height="720" alt="what-u-have-forgotten" src="https://github.com/user-attachments/assets/3d9e1948-620a-46af-95cc-95b61bb48a13" />
-
