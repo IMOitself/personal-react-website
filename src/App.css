@@ -33,6 +33,7 @@
     align-items: end;
     padding: 8px;
     overflow: hidden;
+    position: relative;
 }
 .monthbanner > :nth-child(1) {
     font-weight: 700;
@@ -46,15 +47,55 @@
     margin-bottom: 2px;
     flex: 1;
     text-align: start;
+    z-index: 1;
+}
+.monthbanner > svg {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    width: 32%;
+    translate: 0 30%;
+    opacity: 0.4;
 }
 
 .banner1 {
-    background-color: #F8312F;
+    background-color: #8957E5
 }
-
+.banner2 {
+    background-color: #00D26A
+}
+.banner3 {
+    background-color: #06B6D4
+}
+.banner4 {
+    background-color: #f8972f
+}
+.banner5 {
+    background-color: #aab8c2c0
+}
+.banner6 {
+    background-color: #f9af2ffc
+}
+.banner7 {
+    background-color: #584d92
+}
+.banner8 {
+    background-color: #F8312F
+}
+.banner9 {
+    background-color: #9C0C29
+}
 .banner1 > svg {
-    width: 32%;
+    rotate: 340deg;
+    translate: 0 20%;
+}
+.banner6 > svg {
     rotate: 350deg;
-    translate: 0 30%;
-    opacity: 0.4;
+    translate: 0 20%;
+    scale: 0.9;
+}
+.banner8 > svg {
+    translate: 10% 15%;
+    scale: 0.8;
 }
