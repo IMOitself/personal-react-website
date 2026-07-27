@@ -20,6 +20,41 @@
     width: 40px;
 }
 .topwarning {
+    text-align: center;
     background-color: #ba7f09;
     padding: 10px;
+}
+
+/* ================================= */
+.monthbanner {
+    width: 50%;
+    height: 10%;
+    display: flex;
+    align-items: end;
+    padding: 8px;
+    overflow: hidden;
+}
+.monthbanner > :nth-child(1) {
+    font-weight: 700;
+    font-size: xx-large;
+    margin: 0;
+}
+.monthbanner > p:nth-child(2) {
+    font-weight: 600;
+    font-size: x-large;
+    margin-left: 16px;
+    margin-bottom: 2px;
+    flex: 1;
+    text-align: start;
+}
+
+.banner1 {
+    background-color: #F8312F;
+}
+
+.banner1 > svg {
+    width: 32%;
+    rotate: 350deg;
+    translate: 0 30%;
+    opacity: 0.4;
 }

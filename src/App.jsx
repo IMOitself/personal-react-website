@@ -44,15 +44,27 @@ function DashboardBanner() {
 
 export default function App() {
   return (
-    <div style={{height:'100vh', textAlign:'center', paddingTop:'25px'}}>
-      <p className='topwarning'>currently in baby steps rn. let me cook {" >:D"}</p>
+    <>
+    <p className='topwarning'>currently in baby steps rn. let me cook {" >:D"}</p>
+    <div style={{height:'100vh', textAlign:'center', display: 'none'}}>
       <h2 style={{opacity: '0.4'}}>reference:</h2>
       <img src={'https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/banner-main.svg'}/>
       <br/>
       <h2 style={{opacity: '0.4'}}>recreation:</h2>
       <DashboardBanner/>
 
- {/* <img src={'https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/banner-recent-repo.svg'}/>  */}
+      {/* <img src={'https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/banner-recent-repo.svg'}/>  */}
     </div>
+
+    {/* ======================================================= */}
+
+    <div style={{height:'100vh', textAlign:'center', padding: '16px'}}>
+      <div className="monthbanner banner1">
+        <p>JUNE</p>
+        <p>flags</p>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="#FFFFFF"><path d="M200-80v-760h640l-80 200 80 200H280v360h-80Z"/></svg>
+      </div>
+    </div>
+    </>
   )
 }
