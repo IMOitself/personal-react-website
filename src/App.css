@@ -1,0 +1,21 @@
+.banner {
+    height: 180px;
+}
+.columns {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+.v-line {
+    width: 4px;
+    /* height: 80%; */
+    background: #ABABAB;
+    opacity: 0.4
+}
+#lang {
+    display: flex;
+    align-items: center;
+}
+#lang > svg {
+    width: 40px;
+}
