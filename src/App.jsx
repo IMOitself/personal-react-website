@@ -47,7 +47,7 @@ export default function App() {
     <>
     <p className='topwarning'>currently doing some baby steps rn. let me cook {" >:D"}</p>
 
-    <div style={{height:'100vh', textAlign:'center'}}>
+    <div style={{textAlign:'center'}}>
       <h2 style={{opacity: '0.4'}}>reference:</h2>
       <img src={'https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/banner-main.svg'}/>
       <br/>
