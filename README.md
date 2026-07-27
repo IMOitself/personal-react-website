@@ -14,3 +14,4 @@ to learn how to create and deploy react website
 ## sources: 
 - [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme)
 - [jetbrains mono](https://www.jetbrains.com/lp/mono/)
+- [google fonts icons](https://fonts.google.com/icons)
