@@ -2,7 +2,8 @@
   
 [`https://imoitself.github.io/personal-react-website/`](https://imoitself.github.io/personal-react-website/)
 
-<kbd>screenshot of the site soon</kbd>
+<img height="480" alt="Screenshot 2026-07-29 000259" src="https://github.com/user-attachments/assets/2df3ee89-652e-4432-ba9e-d7bfb405a2b9" />
+
 
 ## strictly no vibe coding:D
 recreating [personal-github-banner](https://github.com/IMOitself/personal-github-banner) in React! <br>even tho its easier to just paste the injected html from the banners,<br> i challenge myself to recreate it from scratch.
