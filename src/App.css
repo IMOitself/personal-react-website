@@ -103,3 +103,13 @@
     /* translate: 0 15%; */
     scale: 0.95;
 }
+
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+
+.banner-jul2026 {
+    background-color: #464dca
+}
+.banner-jul2026 > svg {
+    translate: 0 15%;
+    scale: 0.9;
+}
