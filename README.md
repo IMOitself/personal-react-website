@@ -6,7 +6,7 @@
 
 
 ## strictly no vibe coding:D
-recreating [personal-github-banner](https://github.com/IMOitself/personal-github-banner) in React! <br>even tho its easier to just paste the injected html from the banners,<br> i challenge myself to recreate it from scratch.
+a playground for practicing React!
 
 </div>
 
