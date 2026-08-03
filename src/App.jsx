@@ -114,16 +114,27 @@ export default function App() {
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="#FFFFFF"><path d="m80-80 200-560 360 360L80-80Zm502-378-42-42 224-224q32-32 77-32t77 32l24 24-42 42-24-24q-14-14-35-14t-35 14L582-458ZM422-618l-42-42 24-24q14-14 14-34t-14-34l-26-26 42-42 26 26q32 32 32 76t-32 76l-24 24Zm80 80-42-42 144-144q14-14 14-35t-14-35l-64-64 42-42 64 64q32 32 32 77t-32 77L502-538Zm160 160-42-42 64-64q32-32 77-32t77 32l64 64-42 42-64-64q-14-14-35-14t-35 14l-64 64Z"/></svg>
       </div>
       <br/>
-      <div className="banner8 monthbanner">
+      <div className="banner-oct2025 monthbanner">
         <p>OCT</p>
         <p>calamities</p>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="#FFFFFF"><path d="M160-200v-80h80v-280q0-83 50-147.5T420-792v-28q0-25 17.5-42.5T480-880q25 0 42.5 17.5T540-820v28q80 20 130 84.5T720-560v280h80v80H160ZM480-80q-33 0-56.5-23.5T400-160h160q0 33-23.5 56.5T480-80ZM80-560q0-100 44.5-183.5T244-882l47 64q-60 44-95.5 111T160-560H80Zm720 0q0-80-35.5-147T669-818l47-64q75 55 119.5 138.5T880-560h-80Z"/></svg>
       </div>
+      <div className="repos-oct2025 repobanners">
+          <img src="https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterReadme.svg" />
+          <img src="https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterGit.svg" />
+          <img src="https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterGit-Official.svg" />
+          <img src="https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterRun.svg" />
+          <img src="https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/AfterBuild.svg" />
+
+      </div>
       <br/>
-      <div className="banner9 monthbanner">
+      <div className="banner-sep2025 monthbanner">
         <p>SEP</p>
         <p>silksong</p>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="#FFFFFF"><path d="M480-654Zm174 174Zm-348 0Zm174 174Zm0-234L360-660v-220h240v220L480-540Zm180 180L540-480l120-120h220v240H660Zm-580 0v-240h220l120 120-120 120H80ZM360-80v-220l120-120 120 120v220H360Zm120-574 40-40v-106h-80v106l40 40ZM160-440h106l40-40-40-40H160v80Zm280 280h80v-106l-40-40-40 40v106Zm254-280h106v-80H694l-40 40 40 40Z"/></svg>
+      </div>
+      <div className="repos-sep2025 repobanners">
+          <img src="https://raw.githubusercontent.com/IMOitself/personal-github-banner/master/mini-repo-banners/hunterexam.svg" />
       </div>
       <br/>
     </div>
